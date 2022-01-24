@@ -8,14 +8,6 @@ correctly, they will be able to escape from coronavirus infection.
 # Game Flow
 ![alt text](https://github.com/liyanayazid/Escape-From-Illness/blob/main/Game%20flow.png?raw=true)
 
-# Game Map
-
-Level 1:
-![alt text](https://github.com/liyanayazid/Escape-From-Illness/blob/main/Level%201%20map.png?raw=true)
-
-Level 2:
-![alt text](https://github.com/liyanayazid/Escape-From-Illness/blob/main/level%202%20map.png?raw=true)
-
 # Mechanic
 
 1. Rules
