@@ -36,4 +36,16 @@ Keyboard:
 - S: Move backwards
 - D: Move right
 
+  Screenshots:
+![vsdsw](https://github.com/liyanayazid/Escape-From-Illness/assets/80299918/e8ece7f3-79fc-4552-b17a-eb7341097e05)
+
+![ss11](https://github.com/liyanayazid/Escape-From-Illness/assets/80299918/90a1a700-6966-4058-a1db-b909c1c8b345)
+  
+![ngff](https://github.com/liyanayazid/Escape-From-Illness/assets/80299918/9d5e1eb8-ac11-471c-b1b0-51f6814373e7)
+
+![fgnf](https://github.com/liyanayazid/Escape-From-Illness/assets/80299918/6e086088-fd66-4b86-811c-7cfe7be37f6a)
+
+![bff4](https://github.com/liyanayazid/Escape-From-Illness/assets/80299918/42de2172-4acb-4fb8-9826-4c547bdef902)
+
+
 
